@@ -1,4 +1,5 @@
 .text-decoration {
+  margin: 20px;
   text-decoration: none;
   color: white;
   }
@@ -6,4 +7,8 @@
 .profile_img {
   width: 200px;
   height: 200px;
+}
+
+.btn-custom {
+  background-color: #282094; /* Cambia a tu color preferido */
 }
